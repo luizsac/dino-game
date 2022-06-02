@@ -1,0 +1,1 @@
+## Repositório do projeto "Recriando o famoso jogo do dinossauro sem internet" da plataforma de ensino Digital Innovation One.
